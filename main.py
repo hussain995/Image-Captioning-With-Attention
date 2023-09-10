@@ -6,7 +6,7 @@ from preprocess_captions import get_tokenizer
 from model import Attention, EncoderCNN, DecoderRNN
 
 
-# Press the green button in the gutter to run the script.
+
 if __name__ == '__main__':
     caption_dir = "Flickr8k_text/Flickr8k.token.txt"
     train_files_dir = "Flickr8k_text/Flickr_8k.trainImages.txt"
@@ -52,4 +52,4 @@ if __name__ == '__main__':
 
 
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
